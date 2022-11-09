@@ -1,6 +1,6 @@
 print("""
 ************************
-Benutzer Login
+Benutzer Login Programm
 ************************
 """)
 sys_benutzer_name = "maxmeier"
